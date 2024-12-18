@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ content_for_header }}
+  </head>
+  <body>
+    {% render 'header' %}
+    {{ content_for_layout }}
+    {% render 'footer' %}
+  </body>
+</html>

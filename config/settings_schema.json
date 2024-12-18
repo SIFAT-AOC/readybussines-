@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Theme Settings",
+      "settings": [
+        {
+          "type": "text",
+          "id": "store_name",
+          "label": "Store Name"
+        }
+      ]
+    }
+  ]
+  
